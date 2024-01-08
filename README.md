@@ -1,3 +1,3 @@
-Datset Names:
+Dataset Names:
 Advertising.csv
-Umemployment in India.csv
+Unemployment in India.csv
